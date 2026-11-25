@@ -65,7 +65,8 @@ return 0;
 ```
 # OUTPUT
 
-<img width="885" height="393" alt="image" src="https://github.com/user-attachments/assets/9b90fde5-25ab-4f45-9191-e3b4b3c5017e" />
+<img width="1166" height="656" alt="image" src="https://github.com/user-attachments/assets/9e888d5a-1c75-480d-867a-f9f09d4c1341" />
+
 
  
 # RESULT
